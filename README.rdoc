@@ -2,8 +2,6 @@
 
 Ecomerce gerado com Spree com a finalidade de testar a gem.
 
-
-
 * Ruby version
 ruby 2.3.1p112
 
